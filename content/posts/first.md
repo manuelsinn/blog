@@ -13,8 +13,7 @@ draft: false
 The plan is mostly to let this project become a platform to showcase projects and work, complete with experiences of the process itself.
 
 ___
-* first
-* second
-- third
+### Some ideas for future blog posts
+* Genetic password algorithm
+* Coding an intelligent agent running on propositonal logic
 
-> hier mal quote usw
