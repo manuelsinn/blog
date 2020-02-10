@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Welcome to Novela, the simplest way to start publishing with Hugo.
+  heading: Hi, I am Manuel Sinn. Welcome to the site.
   maxWidthPX: 652
 ---

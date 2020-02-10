@@ -1,6 +1,10 @@
 ---
 title: "First"
 date: 2020-02-10T11:39:58+01:00
+hero: "/images/hero-3.jpg"
+excerpt: Why I am starting a blog
+authors:
+  - Manuel Sinn
 draft: false
 ---
 

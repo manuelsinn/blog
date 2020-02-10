@@ -1,9 +1,9 @@
 ---
 title: Manuel Sinn
+date: 2020-02-10
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/profile-01.jpeg
+  Test lelelelelelelel lelelel lelelele l.
+avatar: /images/gohugo-default-sample-hero-image.jpg
 featured: true
 social:
   - title: github
