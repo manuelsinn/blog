@@ -2,8 +2,6 @@
 title: "First"
 date: 2020-02-10T11:39:58+01:00
 draft: false
-authors:
-    - Manuel Sinn
 ---
 
 # Starting a blog
