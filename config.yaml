@@ -1,3 +1,7 @@
 taxonomies:
   author: authors
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Manuel Sinn"
+theme: "hugo-theme-novela-master"
 

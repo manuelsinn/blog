@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Manu's Blog"
-# theme = "hugo-theme-novela-master"
+theme = "hugo-theme-novela-master"
