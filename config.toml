@@ -2,5 +2,3 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Manu's Blog"
 theme = "hugo-theme-novela-master"
-taxonomies:
-    author: authors
