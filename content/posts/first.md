@@ -2,11 +2,13 @@
 title: "First"
 date: 2020-02-10T11:39:58+01:00
 draft: false
+authors:
+    - Manuel Sinn
 ---
 
-# Headline
+# Starting a blog
 
-Hi whats up
+Hey everyone, this is going to be a plattform for projects, thoughts and what not.
 ___
 * first
 * second
