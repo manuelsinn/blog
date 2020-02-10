@@ -1,7 +1,7 @@
 ---
 title: "First"
 date: 2020-02-10T11:39:58+01:00
-hero: "/images/hero-3.jpg"
+# hero: "/images/hero-3.jpg"
 excerpt: Why I am starting a blog
 authors:
   - Manuel Sinn
@@ -10,7 +10,8 @@ draft: false
 
 # Starting a blog
 
-Hey everyone, this is going to be a plattform for projects, thoughts and what not.
+The plan is mostly to let this project become a platform to showcase projects and work, complete with experiences of the process itself.
+
 ___
 * first
 * second
