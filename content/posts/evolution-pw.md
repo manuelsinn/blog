@@ -29,7 +29,7 @@ In implementing the evolutionary algorithm, one has to choose which methods in p
 
 For selecting which individuals will die and which will live on, I chose Truncation, meaning a set proportion of the _fittest_ individuals will survive (in this case: the "best" 50% survive). 
 
-To determine how many individuals will change their "genes" (and in what way), I chose Gaussian Mutation. This means that a set proportion of the population (I chose a mutation rate of 5%) will have their genes altered. In practice, this means that each letter of every password-candidate (individual) has a 5% chance of being switched with another random letter.
+To determine how many individuals will change their "genes" (and in what way), I chose Gaussian Mutation. This means that each individual will have its genes altered with a certain probability (I chose a mutation rate of 5%). In practice, this means that each letter of every password-candidate (individual) has a 5% chance of being switched with another random letter.
 
 To be able to make a comparison, I chose two methods of procreation: Uniform Crossover and K-Point Crossover.
 The first variant means that, going through all genes sequentially, each "baby" is born by choosing either the mum's or the dad's gene. So every letter will be either the one the mum or the dad had in that position.
@@ -54,7 +54,7 @@ You can find the code [here](https://github.com/manuelsinn/genetic-pw-algorithm 
 
 
 # Empirical Comparison of Crossover Strategies
-Using a simple self-coded Export class, I gathered some csv data and imported it to Excel to compare the performance of the different crossover functions. The measured variable is the populations generation at which the fitness is 1.0, that is when the generation's fittest individual is equal to the password.
+Using a simple self-coded Export class, I gathered some csv data and imported it to Excel to compare the performance of the different crossover functions. The measured variable is the population's generation at which the fitness is 1.0, that is when the generation's fittest individual is equal to the password.
 
 Whether the solution-password was 28 or only 10 characters, all crossover implementations fared significantly better than brute force. Here is an overview of the data gathered:
 
@@ -82,7 +82,7 @@ Looking at this project again after a while through the perspective of software 
 I was able to organize the code's structure to be much cleaner and more efficient by using certain code patterns, as well as structuring the classes more effectively in packages.
 To disconnect the underlying algorithm from concrete implementation details, I used abstraction and dependency inversion; Specifically the Strategy pattern (for mutation and selection, minimizing coupling through the use of interfaces), as well as the Template Method pattern (for crossover, since the common skeleton justified a stronger coupling).
 
-Although I did not make use of test driven development in the first place, I did now that I was going to refactor a lot of the code. It showed me the value of getting an immediate confirmation when my code was broken, and in general sped up the process a lot. Besides refactoring the production code with the _SOLID_ principles in mind, I also made sure to use the _arrange-act-assert_ and _given-when-then_ conventions in my test code. I also evened out the functions' abstraction level and improved the overall documentation.
+Although I did not make use of test driven development in the first place, I did now that I was going to refactor a lot of the code. It showed me the value of getting an immediate confirmation when my code was broken, and in general sped up the process a lot. Besides refactoring the production code with the _SOLID_ principles in mind, I also made sure to use the _arrange-act-assert_ and _given-when-then_ conventions in my test code. I also evened out the functions' abstraction levels and improved the overall (Java) documentation.
 
 
 
@@ -91,4 +91,4 @@ Although I did not make use of test driven development in the first place, I did
 
 # Conclusion
 As the project was intended in a proof-of-concept kind of fashion, I am happy about the way it turned out, having accomplished my objectives of practicing clean code and learning about AI in a very practical manner. 
-This is despite there of course being room for improvement, whether it's improving on the unrealistic fitness function or gathering more meaningful data for a more thorough statistical analysis (e.g. using a independent two-way analysis of variance).
+This is despite there of course being room for improvement, whether it's improving on the unrealistic fitness function or gathering more meaningful data for a more thorough statistical analysis (e.g. using a independent two-way analysis of variance or playing around with different passwords).
