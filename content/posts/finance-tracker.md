@@ -27,14 +27,14 @@ As most of my expenses fall into the food category (and I do not need to remembe
 Each month, I would create a note, pin it to the top and record my expenses in this fashion. When the month was over, I would unpin the note and archive it, since I would only need to keep the data in Keep and not see the note itself any longer.
 
 ### Tech Stack 
-The python script I created uses the above mentioned API to gather the data from my notes on Google Keep. I then used pandas dataframes to organize the data into spending categories. For each month the sum of expenses is calculated for each category, so that I can see how much money I spent in each category for a given month in the current year.
+The Python script I created uses the above mentioned API to gather the data from my notes on Google Keep. I then used pandas dataframes to organize the data into spending categories. For each month the sum of expenses is calculated for each category, so that I can see how much money I spent in each category for a given month in the current year.
 
 Obviously I also wanted to somehow display this overview in a way that was useful to me in my everyday life, so I used the openpyxl library to write the data into a custom made Excel sheet. This was the easiest and most cost-effective way I could enjoy a nice looking, practical and scalable front-end. Of course I could have opted to specifically design and implement one myself, but this would have taken away the focus from what I wanted to work on and likely would have introduced a lot of unnecessary work.
 
-To make the application easily accessable I wrote a tiny little bash script to call from anywhere. All this would do is start the python script and when finished, open the Excel file where the newly updated information had just been written to.
+To make the application easily accessable I wrote a tiny little bash script to call from anywhere. All this would do is start the Python script and when finished, open the Excel file where the newly updated information had just been written to.
 
 ### Code and GUI
-#### The python script:
+#### The Python script:
 ```python
 import io
 import sys
@@ -130,7 +130,8 @@ write_to_sheet()
 ```
 
 
-#### My graphical user interface using Excel (stubbed expenses):
+#### My graphical user interface using Excel:
+On the left hand side you can see the categories split by months: This (the white area) is where the Python script inserts the calculated sums. For this screenshot I stubbed out the expenses for data protection. The rows below include ones in which I can set a budget, as well as calculate the total and the average for each category. On the right hand side I added a pie chart that displays how big each category's portion of the whole is.
 ![Here should be an image of the Excel UI...](/excelview.png)
 
 
@@ -145,7 +146,7 @@ xdg-open /path/to/ExcelFile.xlsx
 
 ## Lessons learned
 ### Code
-I learned a good deal about python, the way it is written and the way it works in general. While both are platform independent, Java is statically typed where Python is not (which did leave me with a bunch of errors that were hard to find and grasp at first), but the syntax learning curve is substantially lower with Python, which made it the perfect candidate for a small getting-to-know project like this.
+I learned a good deal about Python, the way it is written and the way it works in general. While both are platform independent, Java is statically typed where Python is not (which did leave me with a bunch of errors that were hard to find and grasp at first), but the syntax learning curve is substantially lower with Python, which made it the perfect candidate for a small getting-to-know project like this.
 
 Something I really enjoyed was the power and simplicity of high-level functionalities and datastructures like the ones that come with popular libraries like pandas and numpy. The dataframe structure allowed me to perform my calculations quickly and easily without having to resort to creating my own resource and line heavy solution.
 
@@ -160,6 +161,6 @@ Over time, I noticed that the approach I chose was too rigid, requiring too much
 ## Conclusion
 I am glad I took the opportunity of creating this side project, it allowed me to learn a lot and create a product fast without reinventing the wheel. The fact that I am now using a different solution is only natural and in my opinion does not diminish the project's value. 
 
-However, if I were to continue the project, I could imagine building a web client with a simple GUI to record my expenses with a few taps. Perhaps a progressive web app solution could look something like this quick [interactive Figma prototype I created](https://www.figma.com/proto/hv01ZkOxDHocoVzq5mwnQ7/ExpensesApp?node-id=1%3A549&scaling=scale-down):
+However, if I were to continue the project, I could imagine building a web client with a simple GUI to record my expenses with a few taps. Perhaps a progressive web app solution could look something like this [interactive Figma prototype I created](https://www.figma.com/proto/hv01ZkOxDHocoVzq5mwnQ7/ExpensesApp?node-id=1%3A549&scaling=scale-down):
 
 ![Image of the prototype](/figmaexpenseprotoall.png)
