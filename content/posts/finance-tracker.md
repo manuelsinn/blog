@@ -165,3 +165,6 @@ However, if I were to continue the project, I could imagine building a web clien
 ![Image of the prototype](/figmaexpenseproto.png)
 ![Image of the prototype](/figmaexpenseproto2.png)
 ![Image of the prototype](/figmaexpenseproto3.png)
+{{ .Resources.Match "images/figmaexpenseproto*.png" }}
+
+{{< img src="/figmaexpenseproto" type="png" alt="Image of the prototype" caption="Figma prototype" >}}
