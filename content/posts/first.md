@@ -7,7 +7,7 @@ authors:
 draft: false
 ---
 
-# Starting a blog
+## Starting a blog
 
 The plan is mostly to let this project become a platform to showcase projects and work, complete with experiences of the process itself.
 
