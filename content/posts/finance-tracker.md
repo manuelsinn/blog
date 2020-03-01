@@ -132,6 +132,7 @@ write_to_sheet()
 
 #### My graphical user interface using Excel:
 On the left hand side you can see the categories split by months: This (the white area) is where the Python script inserts the calculated sums. For this screenshot I stubbed out the expenses for data protection. The rows below include ones in which I can set a budget, as well as calculate the total and the average for each category. On the right hand side I added a pie chart that displays how big each category's portion of the whole is.
+
 ![Here should be an image of the Excel UI...](/excelview.png)
 
 
