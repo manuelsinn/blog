@@ -162,9 +162,4 @@ I am glad I took the opportunity of creating this side project, it allowed me to
 
 However, if I were to continue the project, I could imagine building a web client with a simple GUI to record my expenses with a few taps. Perhaps a progressive web app solution could look something like this quick [interactive Figma prototype I created](https://www.figma.com/proto/hv01ZkOxDHocoVzq5mwnQ7/ExpensesApp?node-id=1%3A549&scaling=scale-down):
 
-![Image of the prototype](/figmaexpenseproto.png)
-![Image of the prototype](/figmaexpenseproto2.png)
-![Image of the prototype](/figmaexpenseproto3.png)
-{{ .Resources.Match "images/figmaexpenseproto*.png" }}
-
-{{< img src="/figmaexpenseproto" type="png" alt="Image of the prototype" caption="Figma prototype" >}}
+![Image of the prototype](/figmaexpenseprotoall.png)
