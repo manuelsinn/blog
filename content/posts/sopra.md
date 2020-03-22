@@ -72,8 +72,9 @@ An initial mock-up for the main game page:
 The fully working main game page:
 ![Supermarket old](/sopra/supermarketNew.png)
 
-The login page:
+Login and profile pages:
 ![Login image](/sopra/login.png)
+![Login image](/sopra/profile.png)
 
 
 
