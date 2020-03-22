@@ -1,7 +1,7 @@
 ---
 title: "Creating a serious game that teaches sustainable shopping"
 date: 2020-03-22T12:07:28+01:00
-draft: true
+draft: false
 authors:
     - Manuel Sinn
 ---
