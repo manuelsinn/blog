@@ -49,7 +49,7 @@ The authoring tool extension that enables the automatic calculation of CO2 value
 
 Using the collaborative web based design tool [Figma](https://www.figma.com/), I created a few of the in game graphics like the trophies or the logo (which was not an original design though).
 
-![Login image](/login.png)
+
 
 
 
@@ -57,7 +57,7 @@ Using the collaborative web based design tool [Figma](https://www.figma.com/), I
 The initial database architecture:
 ![Image of old db](/dbOld.png)
 
-DB structure after lots of tweaking and refining:
+Database structure after lots of tweaking and refining:
 ![Image of new db](/dbNew.png)
 
 An initial mock-up for the checkout page:
@@ -65,6 +65,16 @@ An initial mock-up for the checkout page:
 
 The fully working checkout page:
 ![Implemented checkout](/checkoutNew.png)
+
+An initial mock-up for the main game page:
+![Supermarket old](/supermarketOld.png)
+
+The fully working main game page:
+![Supermarket old](/supermarketNew.png)
+
+The login page:
+![Login image](/login.png)
+
 
 
 
