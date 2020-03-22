@@ -55,25 +55,25 @@ Using the collaborative web based design tool [Figma](https://www.figma.com/), I
 
 ## First drafts to fully working
 The initial database architecture:
-![Image of old db](/dbOld.png)
+![Image of old db](/sopra/dbOld.png)
 
 Database structure after lots of tweaking and refining:
-![Image of new db](/dbNew.png)
+![Image of new db](/sopra/dbNew.png)
 
 An initial mock-up for the checkout page:
-![Initial checkout mock up](/checkoutOld.png)
+![Initial checkout mock up](/sopra/checkoutOld.png)
 
 The fully working checkout page:
-![Implemented checkout](/checkoutNew.png)
+![Implemented checkout](/sopra/checkoutNew.png)
 
 An initial mock-up for the main game page:
-![Supermarket old](/supermarketOld.png)
+![Supermarket old](/sopra/supermarketOld.png)
 
 The fully working main game page:
-![Supermarket old](/supermarketNew.png)
+![Supermarket old](/sopra/supermarketNew.png)
 
 The login page:
-![Login image](/login.png)
+![Login image](/sopra/login.png)
 
 
 
