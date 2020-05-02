@@ -34,7 +34,7 @@ To give an example: The “Speedy Greenzales” trophy requires the player to ge
 Apart from that, the application also enables social interaction: Users can become friends and view each others' progress, as well as send messages back and forth.
 
 You can take a look at the application's code here:
-[Green Groceries on Gitlab](https://gitlab2.informatik.uni-wuerzburg.de/hci/teaching/sopra/student-material/ws19/01-group/server)
+[Green Groceries on GitLab](https://gitlab2.informatik.uni-wuerzburg.de/hci/teaching/sopra/student-material/ws19/01-group/server)
 
 
 ### The authoring tool
