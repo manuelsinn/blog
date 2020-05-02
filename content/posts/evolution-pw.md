@@ -45,7 +45,7 @@ One remaining question is how to distinguish which individuals are fitter than o
 
 
 ## Code
-You can find the code [here](https://github.com/manuelsinn/genetic-pw-algorithm "Code on Github").
+You can find the Java code [here](https://github.com/manuelsinn/genetic-pw-algorithm "Code on Github").
 
 
 
