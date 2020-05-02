@@ -24,6 +24,8 @@ Since the finished report was kept to 12 short pages (excluding the appendix), I
 #### General
 This project allowed me to dive in head first into the topic of usability. More specifically, I learned to organize my own study from start to finish, which included defining the methods used to gather the data, set up and execute a usability test and evaluate its results qualitatively and quantitatively.
 
+This being a very work and time intensive group project, the experience gained working in a team has also been very valuable.
+
 A lot of thought went into the variables we chose in order to operationalize the concept of usability and its three core pillars effectiveness, efficiency and satisfaction. This allowed me to get a deeper and more thorough grasp on the topic and the distinction between it and other terms, such as the encompassing field of UX.
 
 #### Thoughts for future development
