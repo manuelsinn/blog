@@ -7,7 +7,7 @@ authors:
 ---
 
 ## Idea and Inspiration
-As the importance of effective collaborative can hardly be underestimated when it comes to ensuring a team's success, the communication between its members often remains a challenge. A challenge that lots of different technologies aim to tackle - one of these being project management tools, which strive to make interaction within teams more effective, efficient and satisfactory.   
+The importance of effective collaboration can hardly be underestimated when it comes to ensuring a team's success. However, the communication between its members often remains a challenge. A challenge that lots of different technologies aim to tackle - one of these being project management tools, which strive to make interaction within teams more effective, efficient and satisfactory.   
 
 Two viable options that we wanted to compare to each other are the well known platform *Trello* and its regional competitor *Zenkit*. In order to explore which of the two has the better usability we analyzed both products using a Heuristic Evaluation and then conducted a usability test. Since the usability of every system strongly influences the user's interaction with it, a project management tool's usability is a major factor to consider when it comes to a team's success.
 
