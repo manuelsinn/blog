@@ -33,6 +33,9 @@ To give an example: The “Speedy Greenzales” trophy requires the player to ge
 
 Apart from that, the application also enables social interaction: Users can become friends and view each others' progress, as well as send messages back and forth.
 
+You can take a look at the application's code here:
+[Green Groceries on Gitlab](https://gitlab2.informatik.uni-wuerzburg.de/hci/teaching/sopra/student-material/ws19/01-group/server)
+
 
 ### The authoring tool
 To provide an easy way to edit the game's contents as well as administer its users, a dedicated *authoring tool* is provided. It is a standalone application that does not require a browser. After logging into the database, authors can choose to change user attributes or alter the game's contents, e.g. through adding new products or dishes to the game.
@@ -52,7 +55,6 @@ Using the collaborative web based design tool [Figma](https://www.figma.com/), I
 
 
 
-
 ## From the first drafts to a fully working product
 #### The initial database architecture
 This version of the database still included quite a few features that we ended up not including in the final version (such as the tables "Siegel" or "Menü").  
@@ -68,7 +70,7 @@ Here you can see the database structure after lots of tweaking and refining. We 
 
 
 #### An initial mock-up for the checkout page
-This picture is a hand drawn mock-up we made in the very early phase of designing the product. It already features a receipt-like overview of the purchase, a background image of the checkout environment, as well as options on the right to learn more about shopping sustainbly and going back to the home page.
+This picture is a hand drawn mock-up we made in the very early phase of designing the product. It already features a receipt-like overview of the purchase, a background image of the checkout environment, as well as options on the right to learn more about shopping sustainably and going back to the home page.
 
 ![Initial checkout mock up](/sopra/checkoutOld.png)
 
