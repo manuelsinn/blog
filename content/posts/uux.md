@@ -1,5 +1,5 @@
 ---
-title: "How I conducted a usability test and got A MILLION DOLLARS - and how you can too (no clickbait)"
+title: "Conducting a summative usability study"
 date: 2020-05-02T18:22:06+02:00
 draft: false
 authors:
