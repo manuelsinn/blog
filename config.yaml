@@ -23,8 +23,8 @@ languages:
     readOtherPosts: Read other posts
     newerPosts: Newer posts
     olderPosts: Older posts
-    dateFormatSingle: 01-02-2006
-    dateFormatList: 01-02-2006
+    dateFormatSingle: 02.01.2006
+    dateFormatList: 02.01.2006
     
     params:
       logo:
