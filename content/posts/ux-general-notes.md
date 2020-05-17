@@ -1,7 +1,7 @@
 ---
 title: "Case study draft"
 date: 2020-05-16T10:34:50+02:00
-draft: false
+draft: true
 ---
 
 "parking the planes further away"
