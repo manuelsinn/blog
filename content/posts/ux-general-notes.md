@@ -1,3 +1,9 @@
+---
+title: "Case study draft"
+date: 2020-05-16T10:34:50+02:00
+draft: false
+---
+
 "parking the planes further away"
 
 instead of loading spinners: skeleton screens, tease the content
