@@ -1,21 +1,17 @@
 ---
 title: "UX Design in times of social isolation -- a case study"
-date: 2020-05-02T10:34:50+02:00
-draft: true
+date: 2020-05-16T10:34:50+02:00
+draft: false
 ---
 
+### Introduction
 
-# give context and intro
-explain that this is a case study with challenges etc
+This case study shows the process our team used to design a product that helps people have great virtual partys. The Contextual Design method was used to guide ourselves through every aspect of UX, from user research over design iterations to a low fidelity prototype that combines all the insights we gained.  
+As one of the four team members I was an active part of each stage in the process. Additionally my role as project leader was to ensure that the team's progress was on track and there was good communication inside of the team as well as towards the client.  
 
-give context: set expectation for reader and tell them whether its relevant or useful to them
-name of product, service, client, capacity (freelance ,in house), role
+Read on to learn more about our systematic way of solving this design challenge. The case study includes the problems we faced and the solutions we came up with, as well as UX deliverables like affinity diagrams, identity models, and prototype iterations.
 
-
-
-include ux deliverables, show systematic way in which you approach solve design challenges
-
-include iterations, insights and iterations again
+> Disclaimer: This project is still underway so this post is still in the making and will be updated continually.
 
 
 
@@ -24,26 +20,11 @@ The pandemic forces individuals around the globe to stay in and isolate themselv
 
 Our mission was to design a low-fidelity prototype that helps to make this experience a better one. To keep the development process centered around the user, we used Karen Holtzblatt's **Contextual Design** method.
 
-In a few words: 
-This includes conducting qualitative user research in order to build up empathy and understand their needs and wants.
-
-
-
-
-# explain my role
- 
-show examples of the condensing process of sticky notes
-show quotes!
-
-
-# Planning & Considerations
-- party size? awkward mit zu wenig/zu vielen Leuten? Gruppen aufspalten?
-- festlegen was gemacht wird? offen lassen? rahmen setzen? tanz, spielen, quatschen, trinken, was anschauen, ...
-
 
 # Gathering & Consolidating User Data
 ## Contextual Inquiry
-We started the design process with the qualitative user research. This meant that each of the team members conducted their own contextual inquiry, an in-depth and on site interview where the user guides the interviewer through the task at hand. Our goal in each of these inquiries was to acutely listen to the user's needs. To build a product that would satisfy the user in the end, we needed to find out what they are really trying to say and tease out what they are trying to do that they cannot do (yet).
+In order to build up empathy and understand the wants and needs of the user we started the design process with qualitative user research.  
+This meant that each of the team members conducted their own contextual inquiry, an in-depth and on site interview where the user guides the interviewer through the task at hand. Our goal in each of these inquiries was to acutely listen to the user's needs. To build a product that would satisfy the user in the end, we needed to find out what they are really trying to say and tease out what they are trying to do that they cannot do (yet).  
 Somewhat interestingly, there were hardly any virtual parties being hosted in the team's social network - so we needed to create our own.
 
 #### Challenges and Solutions
@@ -59,57 +40,3 @@ One way we solved this was through establishing an additional channel of communi
 To prevent this, we made it a point to discuss with the user any hypotheses we had about their reasons and intentions. Another way to moderate the issue would have been to interview subjects outside of our own social networks, but due to project scope and resources that unfortunately was not an option.
 
 
-//show examples for these challenges! draw pic of setup and insert it
-
-
-## Interpretation Session
-- a lot of sequential info without the *why*
-
-
-### Joy in Life Models
-- work together with affinity notes to offer a 360° view of the activity and the user (only choose ones that are relevant)
-- day in the life (accomplishment), identity, relationship & collaboration model (connection) to gather data on cool concepts and enhance UX
-
-### Joy in Use Models
-- sequence models
-- decision point models
-- physical model
-- artefact models
-
-### Remote Interpretation 
-Miro etc
-
-### Conclusion
-- 48h nach CI, immer im Team
-- produkte: 
-1. user & organisation models
-2. affinity notes (50-100 pro Interview)
-3. ausgewählte CD models (2!)
---> Rundumsicht der Tätigkeit
-- Am Ende Hauptergebnisse zusammenfassen
-
-
-
-## Data Consolidation
-Consolidating and Condensing User Models --> Creating Immersion Experiences through Communication Design
-
-Meaningful Structure + story language = way in + interaction with data --> product more based on data & user!
---> not only documentation, also communication!
-
-### Affinity Diagram 
---> Karen Holtzblatt Quotes!!
-- worum geht's wirklich? kein keyword matching! --> *was ist die implikation fürs design?*
-gruppen von notes entstehen induktiv, nicht durch vorgefertigte kategorien
-
-blauen notes fassen *alles* der gelben zusammen, bringen es auf den punkt. bottom up! gelb -> blau -> rot -> grün
---> manager können top down lesen 
-
-"ownership of a part is a problem, not a goal"
-
-
-important: show process, how much time, how many team members, what did we do, what challenges and problems did we face and how did we overcome them!
-
-make call to action button obvious
-
-
-# !!Summary (at end) 
