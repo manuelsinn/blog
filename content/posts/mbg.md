@@ -40,3 +40,27 @@ One way we solved this was through establishing an additional channel of communi
 To prevent this, we made it a point to discuss with the user any hypotheses we had about their reasons and intentions. Another way to moderate the issue would have been to interview subjects outside of our own social networks, but due to project scope and resources that unfortunately was not an option.
 
 
+## Interpretation Sessions
+> Still under construction
+
+## Data Consolidation
+
+#### The start
+Now that we had interpreted all of the contextual inquiries, it was time to make sense of all the data we gathered. Those piles of virtual sticky notes soon became an all encompassing **affinity diagram**.  
+
+In order to do that, we got together (virtually) as a team, and every member took 10 random notes. At first, someone would start and read one of their notes, so that everybody could look at theirs and groups could be formed on the (virtual) wall. After all 10 were up there, the next 10 came. As time went by, more and more notes formed more and more groups, some as small as a single note and some longer than a dozen. After about 15 groups or so, we continued on our own and only announced whenever we would open up a new group. To remind ourselves of the key principles by which we organized the notes, we hung up a few self-reminders:
+
+1. No keyword matching - sort by true meaning, not by superficial themes
+1. What is it really about? What are the implications for design?
+1. Be fast, not perfect
+1. "Ownership is a problem, not a goal" (Karen Holtzblatt)
+1. "No one note is critical"
+
+These reminders all tackle critical challenges when grouping the notes. For example, it can be all to easy to group only by topic (say, all notes that reference a specific feature in a program) or get stuck with very few notes for far too long, causing the whole group to lose momentum. It's also very important that everybody is allowed to reorganize everything, as the method's nature integrates natural checks in order to get the truest interpretation out of the data at hand.
+Eventually, all notes were reorganized into a long string of groups - the *first milestone* was behind us. 
+
+(a pdf will be shown here shortly)
+
+#### Level up
+Now that all notes are up on the wall and grouped together, we came up with (blue!) headlines for each group. This crucial headline's job was to summarize *everything* below it, so that later on you wouldn't have to reread the ones below. Every blue headline is also written in the user's language and words. This enables it to capture the true meaning perfectly, be easily understandable and transport this meaning to every one reading it, be it the product owner, marketing specialists or developers.  
+In order to come up with the best possible headlines, we went through the notes in pairs and tested various possibilities before settling.
