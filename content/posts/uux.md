@@ -1,5 +1,5 @@
 ---
-title: "Conducting a summative usability study"
+title: "I conducted a summative usability study"
 date: 2020-05-02T18:22:06+02:00
 draft: false
 authors:

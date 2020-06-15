@@ -1,5 +1,5 @@
 ---
-title: "Creating a serious game that teaches sustainable shopping"
+title: "Learn to shop sustainably with this serious game"
 date: 2020-03-22T12:07:28+01:00
 draft: false
 authors:

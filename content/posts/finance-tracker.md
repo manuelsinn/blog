@@ -1,5 +1,5 @@
 ---
-title: "Building a minimalist expense tracker with Python"
+title: "How I track my finances with Python (as a minimalist)"
 date: 2020-03-01T09:35:01+01:00
 authors:
     - Manuel Sinn
