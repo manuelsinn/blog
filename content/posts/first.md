@@ -9,7 +9,7 @@ draft: false
 
 ## Starting a blog
 
-The plan is mostly to let this project become a platform to showcase projects and work, complete with experiences of the process itself.
+The plan is mostly to let this project become a platform to showcase projects and work, complete with experiences of the process itself. Sometimes in all seriousness, sometimes without being *all* serious.
 
 ___
 
