@@ -2,6 +2,12 @@
 title: "Make the data * *pop* *"
 date: 2020-06-14T22:36:51+02:00
 draft: false
+tags:
+    - data-visualisation
+    - prototyping
+    - axure
+    - visual-design
+    - affinity-designer
 ---
 
 > By visualizing information, we turn it into a **landscape** that you can explore with your eyes, a sort of information map. And when you’re **lost in information**, an information map is kind of useful.  

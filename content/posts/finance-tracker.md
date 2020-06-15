@@ -3,6 +3,9 @@ title: "How I track my finances with Python (as a minimalist)"
 date: 2020-03-01T09:35:01+01:00
 authors:
     - Manuel Sinn
+tags:
+    - python
+    - software-development
 draft: false
 ---
 

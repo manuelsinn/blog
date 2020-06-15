@@ -4,6 +4,13 @@ date: 2020-03-22T12:07:28+01:00
 draft: false
 authors:
     - Manuel Sinn
+tags:
+    - web-dev
+    - html
+    - css
+    - javascript
+    - jquery
+    - software-development
 ---
 
 ## Idea and Vision

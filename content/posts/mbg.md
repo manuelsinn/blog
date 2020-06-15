@@ -2,6 +2,12 @@
 title: "UX Design in times of social isolation -- a case study"
 date: 2020-05-16T10:34:50+02:00
 draft: false
+tags:
+    - user-experience
+    - ux-design
+    - user-research
+    - prototyping
+    - contextual-design
 ---
 
 ### Introduction
