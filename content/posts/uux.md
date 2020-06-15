@@ -1,10 +1,12 @@
 ---
-title: "I conducted a summative usability study"
+title: "Trello *vs.* Zenkit - a usability fight"
 date: 2020-05-02T18:22:06+02:00
 draft: false
 authors:
     - Manuel Sinn
 ---
+
+This post explains how I conducted a summative usability study.
 
 ## Idea and Inspiration
 The importance of effective collaboration can hardly be underestimated when it comes to ensuring a team's success. However, the communication between its members often remains a challenge. A challenge that lots of different technologies aim to tackle - one of these being project management tools, which strive to make interaction within teams more effective, efficient and satisfactory.   
