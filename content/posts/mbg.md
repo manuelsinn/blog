@@ -72,7 +72,7 @@ Now that all notes are up on the wall and grouped together, we came up with (blu
 In order to come up with the best possible headlines, we went through the notes in pairs and tested various possibilities before settling.
 This was done again with the next level (pink notes), before grouping everything in a few broad categories (green notes). The result:  
 
-![Finished Affinity Diagram](/mbg/AffinityFertig.png)
+![Finished Affinity Diagram](/mbg/affinity.jpg)
 
 ## Contextual Design Models
 We also created contextual design models, namely an identity model and a physical model for every interviewee. Their job was to capture the way the users act in the field, what their surroundings look like, how they relate to the activity with respect to their own identity, etc. To offer a pleasant deep dive into the data for every stakeholder and team member, we consolidated the models and redesigned them for the best possible experience. This is what we came up with:
