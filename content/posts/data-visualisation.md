@@ -32,6 +32,9 @@ While it is pretty aesthetically pleasing to me personally, the information it o
 ## HCI @ University: Overview
 To inform others about the degree I am working towards, I created this **[interactive prototype](https://5xycna.axshare.com)**.   
 This was actually the first Axure prototype I ever created! It features multiple types of charts and custom diagrams to visualize various types of data, embedded into a clean and aesthetic redesign of the degrees [actual website](https://mcs.phil2.uni-wuerzburg.de/).  
+
+![Sneak Peak for the Axure RP prototype](/vis/proto.png)
+
 To improve the overall user experience, I put extra effort into the prototype's usability (e.g. by ensuring every link and button is clickable as expected, without distracting from the main elements).   
 Besides that, I also made sure that all of the most important parts (the visualisations) adhered to common industry **Interaction Guidelines**, such as:
 1. Using simple charts and graphs over complex ones
