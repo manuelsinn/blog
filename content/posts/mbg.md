@@ -27,8 +27,8 @@ The pandemic forces individuals around the globe to stay in and isolate themselv
 Our mission was to design a low-fidelity prototype that helps to make this experience a better one. To keep the development process centered around the user, we used Karen Holtzblatt's **Contextual Design** method.
 
 
-# Gathering & Consolidating User Data
-## Contextual Inquiry
+# Getting the data
+## In the field
 In order to build up empathy and understand the wants and needs of the user we started the design process with qualitative user research.  
 This meant that each of the team members conducted their own contextual inquiry, an in-depth and on site interview where the user guides the interviewer through the task at hand. Our goal in each of these inquiries was to acutely listen to the user's needs. To build a product that would satisfy the user in the end, we needed to find out what they are really trying to say and tease out what they are trying to do that they cannot do (yet).  
 Somewhat interestingly, there were hardly any virtual parties being hosted in the team's social network - so we needed to create our own.
@@ -46,15 +46,18 @@ One way we solved this was through establishing an additional channel of communi
 To prevent this, we made it a point to discuss with the user any hypotheses we had about their reasons and intentions. Another way to moderate the issue would have been to interview subjects outside of our own social networks, but due to project scope and resources that unfortunately was not an option.
 
 
-## Interpretation Sessions
-> Still under construction
+## Understanding the data
+After gathering the user data, we came together to interpret and analyze what we had found. Since corona made any in-person-meetings impossible, we used **[Miro](miro.com/)** to collaborate for our online sessions. This tool is pretty amazing: It basically offers an infinite white board on which you can hang sticky notes, draw on, insert images, etc - all in sync at the same time, displaying each others cursors so everybody knows who is working on what. We would be connected over Discord, so a simple "come over here and check out what I found" was enough to share and discuss our findings. Having it all digital was also great in terms of keeping it all neat and organized.  
 
-## Data Consolidation
+To bring together what we had found out during the inquiries, the interviewer would tell the others basically everything that happened, while the rest of the team would either create models or just note down what was said. One **challenge** was distinguishing the info that was purely sequential from that which contained relevant insights into the user's needs.
+To face and deal with this, we made it a point to continually ask the interviewer *why* a person did something, and to do the same with the interviewees in the coming inquiries.  
+After we had interpreted all of the contextual inquiries, we basically had a bunch of models and a huge amount of unorganized sticky notes to work with.
+
+
+## Condensing the data
 
 #### The start
-Now that we had interpreted all of the contextual inquiries, it was time to make sense of all the data we gathered. Those piles of virtual sticky notes soon became an all encompassing **affinity diagram**.  
-
-In order to do that, we got together (virtually) as a team, and every member took 10 random notes. At first, someone would start and read one of their notes, so that everybody could look at theirs and groups could be formed on the (virtual) wall. After all 10 were up there, the next 10 came. As time went by, more and more notes formed more and more groups, some as small as a single note and some longer than a dozen. After about 15 groups or so, we continued on our own and only announced whenever we would open up a new group. To remind ourselves of the key principles by which we organized the notes, we hung up a few self-reminders:
+Now it was time to make sense of all the data we gathered. Those piles of virtual sticky notes soon became an all encompassing **affinity diagram**. In order to do that, we got together (virtually) as a team, and every member took 10 random notes. At first, someone would start and read one of their notes, so that everybody could look at theirs and groups could be formed on the (virtual) wall. After all 10 were up there, the next 10 came. As time went by, more and more notes formed more and more groups, some as small as a single note and some longer than a dozen. After about 15 groups or so, we continued on our own and only announced whenever we would open up a new group. To remind ourselves of the key principles by which we organized the notes, we hung up a few self-reminders:
 
 1. No keyword matching - sort by true meaning, not by superficial themes
 1. What is it really about? What are the implications for design?
@@ -66,9 +69,9 @@ These reminders all tackle critical challenges when grouping the notes. For exam
 Eventually, all notes were reorganized into a long string of groups - the *first milestone* was behind us. 
 
 #### Leveling up
-Now that all notes are up on the wall and grouped together, we came up with (blue!) headlines for each group. This crucial headline's job was to summarize *everything* below it, so that later on you wouldn't have to reread the ones below. Every blue headline is also written in the user's language and words. This enables it to capture the true meaning perfectly, be easily understandable and transport this meaning to every one reading it, be it the product owner, marketing specialists or developers.  
-In order to come up with the best possible headlines, we went through the notes in pairs and tested various possibilities before settling.
-This was done again with the next level (pink notes), before grouping everything in a few broad categories (green notes). The result:  
+Now that all notes are up on the wall and grouped together, we came up with (blue!) headlines for each group. This crucial headline's job was to summarize *everything* below it, so that later on you wouldn't have to reread the ones below. This way categories emerge inductively rather than coming from preset mindsets. Every blue headline is also written in the user's language and words. This enables it to capture the true meaning perfectly, be easily understandable and transport this meaning to every one reading it, be it the product owner, marketing specialists or developers.  
+In order to come up with the best possible headlines, we went through the notes in pairs and tested various possibilities before settling. This was done again with the next level (pink notes), before grouping everything in a few broad categories (green notes). This hierarchical structure is especially useful for stakeholders who want to get a good look at the data without spending too much time - all they need to do is start reading from the top.  
+It was also super important to us to break apart the really big groups that came about initially, because we knew that this was the only way to gain the insights we were looking for. The result:  
 
 ![Finished Affinity Diagram](/mbg/affinity.jpg)
 
@@ -80,5 +83,7 @@ We also created contextual design models, namely an identity model and a physica
 
 #### The physical model
 ![Consolidated Physical Model](/mbg/physical.png)
+
+
 
 [to be continued]

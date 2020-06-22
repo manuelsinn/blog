@@ -53,7 +53,7 @@ In order to be able to create new products without having to search for their CO
 
 ## Tech Stack & Process
 The web application's base follows the model-view-controller pattern and is built with the help of the [Play Framework](https://www.playframework.com). This enabled us to use Scala templates to simplify our HTML files and write our model and controller classes in Java.  
-While the server side was basically all Java and SQL (using a MySQL database in the background), the web client's features were implemented with Javascript, while the authoring tool was created with the help of the JavaFX framework.
+While the server side was basically all Java and SQL (using a MySQL database in the background), the web client's features were implemented with Javascript (along with a few libraries), HTML & CSS. To pass the data between server and client, JSON was used. The authoring tool was created with the help of the JavaFX framework.
 
 The authoring tool extension that enables the automatic calculation of CO2 values uses the Java library [Jsoup](https://jsoup.org/) to parse the HTML and get the relevant data from the site.
 

@@ -19,13 +19,13 @@ True data driven decision making is one of the most important skills in existenc
 ## Habit Tracking
 To get a visual grasp of my habits throughout the year, I designed this visualisation:  
 
-``` diagram under construction ```
+![Habit Tracker Visualisation #1](/vis/git.png)
 
 The idea behind this design is taken from the popular GitHub contribution tracker. Every day is represented by a box, the color indicating both the kind (learning Chinese, meditation or working out) and intensity of the contribution (in this case, words studied / time of meditation / time of work out). This way, lots of information is processed in parallel and you get a good grasp of the various tendencies, like the streak of days where the activity was performed, how strongly it was done in general or in certain periods of time, etc. You can even compare week days, weeks and months pretty easily by scanning horizontally, vertically or by group of boxes respectively.
 
 I also designed this visualisation:  
 
-``` diagram under construction ```
+![Habit Tracker Visualisation #2](/vis/round.png)
 
 While it is pretty aesthetically pleasing to me personally, the information it offers at a glance does not compare to the version above. Color in this case only represents the activity, the intensity is given by a line's length or the height of a "bar". It is much more difficult to understand and draw value from, especially since the round shape in this case makes comparisons hardly possible. I included it nonetheless, to illustrate how appearance is obviously not everything. Deep.
 
