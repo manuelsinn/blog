@@ -51,14 +51,15 @@ The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-c
 <details>
   <summary>Click to see the code!</summary>
 
-{{< highlight solidity "linenos=false >}}
+{{< highlight solidity "linenos=false" >}}  
+
 /*
 EmissionToken - PoC implementation
 This smart contract is a way to decentralize the current emission trade
 and move it to an immutable datastructure, possibly enhancing efficiency,
 transparency and trustworthiness.
    
-Basic token infrastructure coded along gilad haimovs great tutorial thttps://www.toptal.com/ethereum/create-erc20-token-tutorial
+Basic token infrastructure coded along gilad haimovs great tutorial https://www.toptal.com/ethereum/create-erc20-token-tutorial
 */
 
 pragma solidity >=0.4.22 <0.7.0;
