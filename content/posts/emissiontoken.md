@@ -13,7 +13,7 @@ tags:
 ---
 
 ### What is this?
-An ERC20 token standard compliant "Emission Token" that uses blockchain technology to enable a  decentralized emissions trading system, coded as a smart contract in Solidity and deployed on the Ethereum test net.
+> An ERC20 token standard compliant "Emission Token" that uses blockchain technology to enable a  decentralized emissions trading system, coded as a smart contract in Solidity and deployed on the Ethereum test net.
 
 
 ## The idea
