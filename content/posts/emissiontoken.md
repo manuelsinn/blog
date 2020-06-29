@@ -45,6 +45,12 @@ To illustrate and further this idea I created an ERC20 token standard compliant 
 
 
 ## Code
+The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-contracts/blob/master/emissionToken.sol) or viewed right on this page:   
+
+
+<details>
+  <summary>Click to see the code!</summary>
+
 {{< highlight go "linenos=false >}}
 
 /*
@@ -185,6 +191,10 @@ library SafeMath {
 
 
 {{< / highlight >}}
+
+</details>
+
+
 
 ## Tech Stack & Process
 After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use, so I later switched to the online IDE [Remix}(https://remix.ethereum.org/).
