@@ -196,8 +196,9 @@ library SafeMath {
 
 
 ## Tech Stack & Process
-After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use, so I later switched to the online IDE [Remix](https://remix.ethereum.org/).  
-To dive deeper into Solidity and get my hands dirty, the [Solidity docs](https://solidity.readthedocs.io/en/v0.6.10/solidity-by-example.html) were a great place to start. 
+After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use. Although truffle and the MetaMask plugin serve as excellent ways to deploy smart contracts and see them in action, e.g. on [Etherscan](https://etherscan.io/), some issues (like having to download most of the blockchain history) led me to a much simpler deployment approach, namely switching to the online IDE [Remix](https://remix.ethereum.org/).
+To dive deeper into Solidity and get my hands dirty, the [Solidity docs](https://solidity.readthedocs.io/en/v0.6.10/solidity-by-example.html) were a great place to start.  
+
 
 
 
