@@ -44,14 +44,14 @@ To illustrate and further this idea I created an ERC20 token standard compliant 
 
 
 ## Code
-The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-contracts/blob/master/emissionToken.sol) or viewed right on this page:   
+The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-contracts/blob/master/emissionToken.sol) or viewed right on this page. I have included lots of comments in order to make the whole contract easy to understand.
 
 
 
 <details>
   <summary>Click to see the code!</summary>
 
-{{< highlight sol "linenos=false" >}}
+{{< highlight javascript "linenos=false" >}}
 /*
 EmissionToken - PoC implementation
 This smart contract is a way to decentralize the current emission trade
