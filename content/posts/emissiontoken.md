@@ -51,7 +51,7 @@ The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-c
 <details>
   <summary>Click to see the code!</summary>
 
-{{< highlight sol "linenos=true" >}}
+{{< highlight sol "linenos=false" >}}
 /*
 EmissionToken - PoC implementation
 This smart contract is a way to decentralize the current emission trade
