@@ -45,7 +45,8 @@ To illustrate and further this idea I created an ERC20 token standard compliant 
 
 
 ## Code
-'''
+{{< highlight go "linenos=false >}}
+
 /*
 EmissionToken - PoC implementation
 This smart contract is a way to decentralize the current emission trade
@@ -168,7 +169,7 @@ contract EmissionToken {
     }
 }
 
-// used to 
+
 library SafeMath {
     function sub(uint256 a, uint256 b) internal pure returns (uint256) {
       assert(b <= a);
@@ -181,8 +182,9 @@ library SafeMath {
       return c;
     }
 }
-'''
 
+
+{{< / highlight >}}
 
 ## Tech Stack & Process
 After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use, so I later switched to the online IDE [Remix}(https://remix.ethereum.org/).
