@@ -12,7 +12,7 @@ tags:
     - smart-contracts
 ---
 
-### In a nutshell 
+### What is this?
 An ERC20 token standard compliant "Emission Token" that uses blockchain technology to enable a  decentralized emissions trading system, coded as a smart contract in Solidity and deployed on the Ethereum test net.
 
 
@@ -34,12 +34,11 @@ Obviously, the entire process of measuring, reporting, verification and enforcem
 ## Decentralized improvement 
 One opportunity to streamline this process could lie within the realm of distributed ledger technologies. By using the blockchain and smart contracts, a lot of all this could potentially be... 
 
-- automated: I'm thinking IoT enabled emission meters talking to smart contracts to automatically update  the emission balance of its holder
-- made more secure, transparent and trustworthy: using the blockchain as an immutable data structure, all interactions could be logged on there, open for all to see and be held accountable indefinitely
-- made more efficient: without the need for a central authority and connected intermediaries to gather information and enforce the rules, sanctions and payouts can both be dealt with a lot faster
+- **automated**: I'm thinking IoT enabled emission meters talking to smart contracts to automatically update  the emission balance of their holders
+- made more **secure, transparent and trustworthy**: using the blockchain as an immutable data structure, all interactions could be logged on there, open for all to see and be held accountable indefinitely
+- made more **efficient**: without the need for a central authority and connected intermediaries to gather information and enforce the rules, sanctions and payouts can both be dealt with a lot faster
 
-In a certain way, emissions are already tokenized to some extent: One emissions permit (also called carbon credit or Kyoto unit) is equivalent to one metric ton of CO2 emissions. 
-
+An option to bring blockchain into the game is to implement a tokenized version of an emissions trading scheme, so that emissions can interact with smart contracts in unique ways and be traded similar to the way crypto currency is. In a certain way, emissions are already tokenized to some extent: One emissions permit (also called carbon credit or Kyoto unit) is equivalent to one metric ton of CO2 emissions.  
 To illustrate and further this idea I created an ERC20 token standard compliant "EmissionToken" which could be used to work towards these promising improvements.
 
 
@@ -51,7 +50,7 @@ The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-c
 <details>
   <summary>Click to see the code!</summary>
 
-{{< highlight go "linenos=false >}}
+{{< highlight solidity "linenos=false >}}
 
 /*
 EmissionToken - PoC implementation
@@ -197,8 +196,7 @@ library SafeMath {
 
 
 ## Tech Stack & Process
-After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use, so I later switched to the online IDE [Remix}(https://remix.ethereum.org/).
-
+After completing the 9+ hours learning path about Blockchain and related topics on LinkedIn Learning, I first coded a basic smart contract in Solidity and deployed it on the Ethereum (test) network using truffle. To be honest, this process was pretty lengthy and I wanted to focus on the concept itself and ease of use, so I later switched to the online IDE [Remix](https://remix.ethereum.org/).  
 To dive deeper into Solidity and get my hands dirty, the [Solidity docs](https://solidity.readthedocs.io/en/v0.6.10/solidity-by-example.html) were a great place to start. 
 
 
@@ -206,17 +204,22 @@ To dive deeper into Solidity and get my hands dirty, the [Solidity docs](https:/
 ## Limitations to the implementation
 The code is mostly to be understood as proof of concept. Some challenges that remain include:
 
-- The initial distribution of emissions. In a real world scenario, a government would deal with the distribution according to different criteria such as historical production and others. So far, the contract creator initially gets all the emission tokens, and its up to him to transfer them. A way to deal with this could be some form of initial distribution similar to ICOs (initial coin offerings) or STO (security token offerings).
-- The registration of holders (e.g. institutions or firms which have a total emission balance) and associates (their subordinated parts, like a firm's factory, which decrease that balance by emitting green house gases). In this implementation, the smart contract only allows holders to register their associates. This makes sense for example because it prevents competing businesses from registering smart meters to their rivals in order to decrease their emission balance. However, it does not solve the problem of an entity just deciding to cheat by not registering an associate to save emissions. 
-- Automated punishments and regulations are not included yet. A spontaneous idea that just sprung to my mind is a decentralized way to let all participants regulate each other, maybe by appointing a suspected cheater and suspending him from the exchange for a set period of time when enough participants vote to do so. This would incentivize clean playing, but at the same time introduce mistrust between parties into the game.
+- The **initial distribution of emissions**. In a real world scenario, a government would deal with the distribution according to different criteria such as historical production and others. So far, the contract creator initially gets all the emission tokens, and its up to him to transfer them. A way to deal with this could be some form of initial distribution similar to ICOs (initial coin offerings) or STO (security token offerings).  
+
+- The **registration of holders** (e.g. institutions or firms which have a total emission balance) and **associates** (their subordinated parts, like a firm's factory, which decrease that balance by emitting green house gases). In this implementation, the smart contract only allows holders to register their associates. This makes sense for example because it prevents competing businesses from registering smart meters to their rivals in order to decrease their emission balance. However, it does not solve the problem of an entity just deciding to cheat by not registering an associate to save emissions.   
+
+- **Automated punishments and regulations** are not included yet. A spontaneous idea that just sprung to my mind is a decentralized way to let all participants regulate each other, maybe by appointing a suspected cheater and suspending him from the exchange for a set period of time when enough participants vote to do so. This would incentivize clean playing, but at the same time introduce mistrust between parties into the game.
 
 
 
 ## What I learned & some thoughts
+#### Creating the smart contract
 When I first started with Solidity, I noticed that this stuff was harder than I had expected, and that it was much more of a concept than a syntax issue. Solidity is very similar to other languages and very easy to pick up, save for a few new concepts like modifiers, require(), gas, included transaction capabilites, etc. A few great examples that showcase the power of the decentralized smart contract are shown in the Solidity docs, like the voting contract, the auction contract or the way a (mostly) trustless online transaction is handled. 
 
-Initially, I planned to implement the whole transaction process, including tokens and compensation in form of cryptocurrency (Ether in this case, as the smart contract runs on the ethereum network). Instead of transfer functions I had functions to sell and buy emissions, and a global "conversionRate" variable to calculate the price for each transaction. I quickly ran against a wall here though, because in order to do this, I somehow needed to match seller and buyer, basically having to implement a whole marketplace or exchange of sorts. This made me stumble upon the ERC20 token standard, which delegates this to a third party (like a marketplace) through the approval mechanism.
+Initially, I planned to implement the whole transaction process, including tokens and compensation in form of cryptocurrency (Ether in this case, as the smart contract runs on the ethereum network). Instead of transfer functions I had functions to sell and buy emissions, and a global ''' conversionRate ''' variable to calculate the price for each transaction. I quickly ran against a wall here though, because in order to do this, I somehow needed to match seller and buyer, basically having to implement a whole marketplace or exchange of sorts. This made me stumble upon the ERC20 token standard, which delegates this to a third party (like a marketplace) through the approval mechanism.
 
+
+#### Future
 In general, I am confident that the blockchain and related technologies offer enormous potential for innovation far beyond the reaches of just financial applications. Although Ethereum network enabled DApps are mostly still in their infancy, we can already see some of the potential that is created by combining the unique qualities blockchain brings to the table and the innovative ideas from developers and business leaders alike. As with most disruptive technologies, a lot of challenges and risks have to be faced and overcome. 
 
 Besides knowledge and acceptance from the general public, I think the consensus mechanism for new blocks to be mined (or forged) is a key factor determining the technology's success. At the time of writing this, Ethereum (the second biggest crypto currency by market capitalization) is at the brink of ditching the power hungry proof of work mechanism and about to go with proof of stake.
