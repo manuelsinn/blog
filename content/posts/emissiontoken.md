@@ -46,11 +46,12 @@ To illustrate and further this idea I created an ERC20 token standard compliant 
 ## Code
 The Solidity code can be found on [GitHub](https://github.com/manuelsinn/smart-contracts/blob/master/emissionToken.sol) or viewed right on this page:   
 
+{{< highlight solidity "linenos=false >}}
 
 <details>
   <summary>Click to see the code!</summary>
 
-{{< highlight solidity "linenos=false >}}
+```
 
 /*
 EmissionToken - PoC implementation
@@ -188,8 +189,7 @@ library SafeMath {
     }
 }
 
-
-{{< / highlight >}}
+```
 
 </details>
 
@@ -217,7 +217,7 @@ The code is mostly to be understood as proof of concept. Some challenges that re
 #### Creating the smart contract
 When I first started with Solidity, I noticed that this stuff was harder than I had expected, and that it was much more of a concept than a syntax issue. Solidity is very similar to other languages and very easy to pick up, save for a few new concepts like modifiers, require(), gas, included transaction capabilites, etc. A few great examples that showcase the power of the decentralized smart contract are shown in the Solidity docs, like the voting contract, the auction contract or the way a (mostly) trustless online transaction is handled. 
 
-Initially, I planned to implement the whole transaction process, including tokens and compensation in form of cryptocurrency (Ether in this case, as the smart contract runs on the ethereum network). Instead of transfer functions I had functions to sell and buy emissions, and a global ''' conversionRate ''' variable to calculate the price for each transaction. I quickly ran against a wall here though, because in order to do this, I somehow needed to match seller and buyer, basically having to implement a whole marketplace or exchange of sorts. This made me stumble upon the ERC20 token standard, which delegates this to a third party (like a marketplace) through the approval mechanism.
+Initially, I planned to implement the whole transaction process, including tokens and compensation in form of cryptocurrency (Ether in this case, as the smart contract runs on the ethereum network). Instead of transfer functions I had functions to sell and buy emissions, and a global ``` conversionRate ``` variable to calculate the price for each transaction. I quickly ran against a wall here though, because in order to do this, I somehow needed to match seller and buyer, basically having to implement a whole marketplace or exchange of sorts. This made me stumble upon the ERC20 token standard, which delegates this to a third party (like a marketplace) through the approval mechanism.
 
 
 #### Future
