@@ -1,6 +1,6 @@
 ---
 title: "Make the data * *pop* *"
-date: 2020-06-10T22:36:51+02:00
+date: 2020-06-13T22:36:51+02:00
 draft: false
 tags:
     - data-visualisation
