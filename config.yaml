@@ -38,5 +38,5 @@ languages:
     menu:
       main:
       - identifier: about
-        name: About
+        name: About Me
         url: /about
