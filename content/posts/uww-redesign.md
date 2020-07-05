@@ -15,8 +15,7 @@ What this is:
 
 
 ## The process
-There are many ways to go about designing a web page, and one of the most popular tools to get started is the **grid**. 
-> In graphic design, a grid is a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. [Wikipedia]
+There are many ways to go about designing a web page, and one of the most popular tools to get started is the **grid**. "In graphic design, a grid is a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content." (Wikipedia)
 
 For each draft, I created a separate grid in order to see how the grid itself would influence my designs. With the grid in place, I began by distributing key page elements across the page, like the nav-bar, the logo, links to socials, pics (initially inserted as placeholders using the classic cross) and other content. In a very iterative fashion I filled in the various elements with actual content, using my own pictures from past volunteering and some taken from the original site. With pictures and actual text in place, I worked on the typography, added shadows, etc to finish everything up.
 
