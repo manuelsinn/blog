@@ -8,11 +8,10 @@ tags:
     - affinity-designer
 ---
 
-What this is:
-> I created three drafts in the process of re-designing the [website of one of my sustainability volunteering projects](https://unterwasserwelten.org/) using Affinity Designer, based on a self-created grid.
-
 ![All designs](/web-uww/AlleZusammen.png)
 
+What this is:
+> I created three drafts in the process of re-designing the [website of one of my sustainability volunteering projects](https://unterwasserwelten.org/) using Affinity Designer, based on a self-created grid.
 
 ## The process
 There are many ways to go about designing a web page, and one of the most popular tools to get started is the **grid**. "In graphic design, a grid is a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content." (Wikipedia)
