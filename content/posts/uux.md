@@ -1,6 +1,6 @@
 ---
 title: "Trello *vs.* Zenkit - a usability fight"
-date: 2020-05-02T18:22:06+02:00
+date: 2020-06-13T18:22:06+02:00
 draft: false
 tags:
     - usability
