@@ -30,7 +30,7 @@ I also designed this visualisation:
 While it is pretty aesthetically pleasing to me personally, the information it offers at a glance does not compare to the version above. Color in this case only represents the activity, the intensity is given by a line's length or the height of a "bar". It is much more difficult to understand and draw value from, especially since the round shape in this case makes comparisons hardly possible. I included it nonetheless, to illustrate how appearance is obviously not everything. Deep.
 
 ## HCI @ University: Overview
-To inform others about the degree I am working towards, I created this **[interactive prototype](https://5xycna.axshare.com)**.   
+To inform others about the degree I am working towards, I created this **[interactive prototype](https://nwrzk9.axshare.com)**.   
 This was actually the first Axure prototype I ever created! It features multiple types of charts and custom diagrams to visualize various types of data, embedded into a clean and aesthetic redesign of the degrees [actual website](https://mcs.phil2.uni-wuerzburg.de/).  
 
 ![Sneak Peak for the Axure RP prototype](/vis/proto.png)
