@@ -6,9 +6,10 @@ authors:
     - Manuel Sinn
 tags:
     - web-dev
+    - java
+    - javascript
     - html
     - css
-    - javascript
     - jquery
     - software-development
     - sustainability
