@@ -130,10 +130,11 @@ Obviously, we needed to make our ideas a bit less abstract. To do so, we drew up
 ### Cool Drilldown
 The last step before we started prototyping was to ask ourselves a few questions in a **Cool Concept Drilldown**, in order to design for key principles. Questions and themes included the following:
 
-- Accomplishment ("Does this design support anytime, anywhere access?")
-- Connection ("Who matters in the user's world? How can the system help users touch their people easily and often - while on the go?")
-- Identity ("How does the product help promote and reinforce the user's identity?")
-- Sensation ("How can you add a smile or a bit of play to the activitiy - without getting in the way of use?")
+- **Accomplishment** ("Does this design support anytime, anywhere access?")
+- **Connection** ("Who matters in the user's world? How can the system help users touch their people easily and often - while on the go?")
+- **Identity** ("How does the product help promote and reinforce the user's identity?")
+- **Sensation** ("How can you add a smile or a bit of play to the activitiy - without getting in the way of use?")
+
 [Karen Holtzblatt]
 
 Some features and ideas that stem from this drilldown include:
