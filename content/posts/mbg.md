@@ -1,6 +1,6 @@
 ---
 title: "UX Design in times of social isolation -- a case study"
-date: 2020-06-10T10:34:50+02:00
+date: 2020-06-15T10:34:50+02:00
 draft: false
 tags:
     - user-experience

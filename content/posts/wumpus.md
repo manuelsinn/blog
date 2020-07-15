@@ -1,6 +1,6 @@
 ---
 title: "AI kills evil monsters from the deep"
-date: 2020-06-15T20:02:42+02:00
+date: 2020-06-13T20:02:42+02:00
 draft: false
 tags:
     - artificial-intelligence
