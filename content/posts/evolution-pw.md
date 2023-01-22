@@ -3,10 +3,8 @@ title: "Survival of the fittest (passwords) - Evolutionary Algorithms"
 date: 2020-02-12T12:26:48+01:00
 draft: false
 tags:
-    - artificial-intelligence
-    - java
     - software-development
-    - evolutionary-algorithms
+    - ai
 ---
 
 ## Motivation

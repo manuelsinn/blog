@@ -3,9 +3,9 @@ title: "Re-Imagining a website on sustainability and the underwater world"
 date: 2020-06-10T20:02:42+02:00
 draft: false
 tags:
+    - ux
     - visual-design
-    - web-design
-    - affinity-designer
+    - sustainability
 ---
 
 ![All designs](/web-uww/AlleZusammen.png)

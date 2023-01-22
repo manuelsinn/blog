@@ -5,13 +5,8 @@ draft: false
 authors:
     - Manuel Sinn
 tags:
-    - web-dev
-    - java
-    - javascript
-    - html
-    - css
-    - jquery
     - software-development
+    - ux
     - sustainability
 ---
 

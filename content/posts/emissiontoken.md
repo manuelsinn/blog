@@ -5,11 +5,9 @@ draft: false
 authors:
     - Manuel Sinn
 tags:
+    - software-development
     - blockchain
     - sustainability
-    - solidity
-    - software-development
-    - smart-contracts
 ---
 
 ### What is this?

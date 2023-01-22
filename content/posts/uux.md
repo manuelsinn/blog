@@ -4,8 +4,6 @@ date: 2020-05-16T18:22:06+02:00
 draft: false
 tags:
     - usability
-    - study
-    - user-experience
 authors:
     - Manuel Sinn
 ---
